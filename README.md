@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/J2dgrv0/DSC06956-Mt-Baker-Window-by-Vince-Emond-Banner-for-github.jpg" width="100%">
+  <img src="https://i.ibb.co/cw9L4wx/Screen-Shot-2022-04-12-at-9-28-41-AM.png" width="100%">
 </p>
-  
+
 ## Hi, I'm Vince
 
 I'm a soon-to-be graduate of the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp). I also have a diploma in Motion Picture Arts from Capilano University and have worked as a professional outdoor and extreme sports photographer and filmmmaker for the last 10 years. I'm excited to continue creating exciting things, this time as a software engineer!
