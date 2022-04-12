@@ -4,7 +4,7 @@
   
 ## Hi, I'm Vince
 
-I'm a soon-to-be graduate of the Lighthouse Labs Web Development Bootcamp. I also have a diploma in Motion Picture Arts from Capilano University and have worked as a professional outdoor and extreme sports photographer and filmmmaker for the last 10 years. I'm excited to continue creating exciting things, this time as a software engineer!
+I'm a soon-to-be graduate of the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp). I also have a diploma in Motion Picture Arts from Capilano University and have worked as a professional outdoor and extreme sports photographer and filmmmaker for the last 10 years. I'm excited to continue creating exciting things, this time as a software engineer!
 
 ## Connect with me
 
