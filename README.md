@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-Transitioning from 10 years in photography and video, I’m a curious mix of pure logic blended with a creative flair. I get most excited about simple and resuable code. Quality over quantity, always.
+Transitioning from 10 years in photography and video, I’m a curious mix of pure logic blended with a creative flair. I get most excited about simplicity, clarity and resuability. Quality over quantity, always.
 
 - 🌱  I’m currently learning: **Typescript** and **Next.js**
 
