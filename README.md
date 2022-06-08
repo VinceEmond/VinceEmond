@@ -3,13 +3,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vince</h1>
+<h3 align="center">A full-stack web developer</h3>
 
-I'm a soon-to-be graduate of the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp). I also have a diploma in Motion Picture Arts from Capilano University and have worked as a professional outdoor and extreme sports photographer and filmmmaker for the last 10 years. I'm excited to continue creating exciting things, this time as a software engineer!
+Transitioning from 10 years in photography and video, I’m a curious mix of pure logic blended with a creative flair. I drive for simplicity; Quality over quantity, always.
+
+- 🌱  I’m currently learning: **Typescript** and **Next.js**
+
+- 📫  How to reach me: **vince.emond@icloud.com**
+
+- 📄  Know about my experiences: **[Live Resume](https://www.canva.com/design/DAE9Fw6vb_A/SvuQStWGfmRczWUx5gHOkg/view?utm_content=DAE9Fw6vb_A)**
+
+- ⚡  Fun fact: **I love real Canadian maple syrup so much that I can hapily just drink it straight from the bottle**
 
 
-## Connect with me
+## Other Links
 
-- [My Resume](https://www.canva.com/design/DAE9Fw6vb_A/SvuQStWGfmRczWUx5gHOkg/view?utm_content=DAE9Fw6vb_A)
 - [Linkedin](https://www.linkedin.com/in/vinceemond/)
 - [Photography Portfolio](https://www.vinceemond.com/)
 - [Cinematography Reel](https://vimeo.com/manage/videos/288829180/63ba07c910)
