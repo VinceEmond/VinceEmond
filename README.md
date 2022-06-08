@@ -5,15 +5,17 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-Transitioning from 10 years in photography and video, I’m a curious mix of pure logic blended with a creative flair. I drive for simplicity; Quality over quantity, always.
+Transitioning from 10 years in photography and video, I’m a curious mix of pure logic blended with a creative flair. I get most excited about simple and resuable code. Quality over quantity, always.
 
 - 🌱  I’m currently learning: **Typescript** and **Next.js**
+
+- 📚 Reading about UX: ["Don't make my think"](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
 
 - 📫  How to reach me: **vince.emond@icloud.com**
 
 - 📄  Know about my experiences: **[Live Resume](https://www.canva.com/design/DAE9Fw6vb_A/SvuQStWGfmRczWUx5gHOkg/view?utm_content=DAE9Fw6vb_A)**
 
-- ⚡  Fun fact: **I love real Canadian maple syrup so much that I can hapily just drink it straight from the bottle**
+- ⚡  Fun fact: **I love to drink maple syrup straight from the bottle (Only the real stuff of course...🇨🇦)**
 
 
 ## Other Links
