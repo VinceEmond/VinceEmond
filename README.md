@@ -9,7 +9,7 @@ Transitioning from 10 years in photography and video, I’m a curious mix of pur
 
 - 🌱  I’m currently learning: **Typescript** and **Next.js**
 
-- 📚 Reading about UX: ["Don't make my think"](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
+- 📚 Reading about UX: ["Don't make me think"](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
 
 - 📫  How to reach me: **vince.emond@icloud.com**
 
