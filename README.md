@@ -15,7 +15,7 @@ Transitioning from 10 years in photography and video, I’m a curious mix of pur
 
 - 📄  Know about my experiences: **[Live Resume](https://www.canva.com/design/DAE9Fw6vb_A/SvuQStWGfmRczWUx5gHOkg/view?utm_content=DAE9Fw6vb_A)**
 
-- ⚡  Fun fact: **I love to drink maple syrup straight from the bottle (Only the real stuff of course...🇨🇦)**
+- ⚡  Quirky fact: **I love to drink maple syrup straight from the bottle (Only the real stuff of course...🇨🇦)**
 
 
 ## Other Links
