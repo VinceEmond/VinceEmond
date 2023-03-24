@@ -7,7 +7,7 @@
 
 Transitioning from 10 years in photography and video, I’m a curious mix of pure logic blended with a creative flair. I get most excited about simplicity, clarity and resuability. Quality over quantity, always.
 
-- 🌱  I’m currently learning: **Typescript**, **Next.js** and Remix
+- 🌱  I’m currently learning: **Typescript**, **Next.js** and **Remix**
 
 - 📚 Reading about UX: ["Don't make me think"](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
 
