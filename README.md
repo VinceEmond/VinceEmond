@@ -11,7 +11,7 @@ Transitioning from 10 years in photography and video, I’m a curious mix of pur
 
 - 📚 Reading about UX: ["Don't make me think"](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
 
-- 📫  How to reach me: **vince.emond@icloud.com**
+- 📫  How to reach me: **vince.emond.bc@gmail.com**
 
 - 📄  Know about my experiences: **[Live Resume](https://www.canva.com/design/DAE9Fw6vb_A/SvuQStWGfmRczWUx5gHOkg/view?utm_content=DAE9Fw6vb_A)**
 
